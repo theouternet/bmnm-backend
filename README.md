@@ -1,5 +1,8 @@
 New backend for BMNM Overhaul.
 
+Shiny new frontend to come. Legacy CLI app lives at:
+https://github.com/theouternet/cli-data-gem-project
+
 # Best::Movies::Near::Me
 
 Welcome to MY new gem! Structure influenced by Worlds Best Restaurants. Problem influenced by me.
