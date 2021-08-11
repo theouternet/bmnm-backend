@@ -22,4 +22,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rspec", ">= 0"
   s.add_development_dependency "nokogiri", ">= 0"
   s.add_development_dependency "pry", ">= 0"
+  s.add_development_dependency "react_on_rails", "12.0.0"
+  s.add_development_dependency "webpacker", "~> 5"
 end
